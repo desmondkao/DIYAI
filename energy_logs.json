@@ -247,6 +247,37 @@
         },
         "savings_percentage": 42.00000000000001
       }
+    },
+    {
+      "timestamp": "2025-05-01 12:54:53",
+      "duration_seconds": 2.216494083404541,
+      "energy_kwh": 4.002003206147088e-05,
+      "co2_emissions_kg": {
+        "global_avg": 1.768885417117013e-05,
+        "eu": 7.923966348171236e-06,
+        "us": 1.5287652247481876e-05,
+        "china": 2.11705969605181e-05,
+        "india": 2.7293661865923143e-05
+      },
+      "model_info": {
+        "type": "Sequential",
+        "layers": 7,
+        "parameters": 876550
+      },
+      "hardware_info": {
+        "device": "CPU"
+      },
+      "comparison": {
+        "cloud_energy_kwh": 2.321161859565311e-05,
+        "cloud_co2_emissions_kg": {
+          "global_avg": 1.0259535419278674e-05,
+          "eu": 4.595900481939316e-06,
+          "us": 8.866838303539488e-06,
+          "china": 1.2278946237100496e-05,
+          "india": 1.5830323882235423e-05
+        },
+        "savings_percentage": 42.00000000000001
+      }
     }
   ]
 }
